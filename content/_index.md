@@ -24,7 +24,7 @@ sections:
       buttons:
         - text: Learn more about my work on Machine Learning, Interpretable AI, and Web Semantic.
           icon: custom/graph
-          url: https://achillesalaun.github.io/engineering/
+          url: https://achillesalaun.github.io/data-science/
         - text: Step into my creative world by visiting my art portfolio.
           icon: custom/palette
           url: https://achillesalaun.github.io/art/
