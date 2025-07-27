@@ -27,5 +27,5 @@ sections:
           url: https://achillesalaun.github.io/data-science/
         - text: Step into my creative world by visiting my art portfolio.
           icon: custom/palette
-          url: https://achillesalaun.github.io/art/
+          url: https://achille_salaun.artstation.com/ # https://achillesalaun.github.io/art/
 ---
